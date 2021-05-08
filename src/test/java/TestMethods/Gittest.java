@@ -15,9 +15,11 @@ public class Gittest {
 
 		Gittest Git = new Gittest();
 		Git.getData();
+		Git.getData1();
 
 		System.out.println("Hello World");
 		System.out.println("Hey There!");
+		System.out.println("Updated the code");
 
 	}
 
